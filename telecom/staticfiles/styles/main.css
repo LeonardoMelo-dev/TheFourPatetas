@@ -1,0 +1,11 @@
+p {
+    color: blue;
+}
+
+h1 {
+    color: yellow;
+}
+
+body {
+    background-color: rgba(rgb(41, 124, 15), green, blue, alpha);
+}
